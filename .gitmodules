@@ -1,0 +1,3 @@
+[submodule "knowhere"]
+	path = knowhere
+	url = https://github.com/jiaoew1991/knowhere.git
